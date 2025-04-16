@@ -1,3 +1,8 @@
+/* jshint esversion: 8 */
+// lub
+/* eslint-env es6 */
+
+
 const express = require('express');
 const mongoose = require('mongoose');
 const fs = require('fs');

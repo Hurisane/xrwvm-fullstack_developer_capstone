@@ -1,3 +1,9 @@
+/* jshint esversion: 8 */
+// lub
+/* eslint-env es6 */
+
+
+
 const { Int32 } = require('mongodb');
 const mongoose = require('mongoose');
 
